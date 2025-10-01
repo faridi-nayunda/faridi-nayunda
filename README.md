@@ -35,12 +35,6 @@
 
 ---
 
-## 🏆 Hackathons & Challenges
-- Participated in Mzumbe Hackathon 2024 – Team project ranked Top 3
-- Solved 100+ problems on platforms like [LeetCode](https://leetcode.com), [HackerRank](https://hackerrank.com)
-
----
-
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/faridi-nayunda-75531128b)
 - [GitHub](https://github.com/faridi-nayunda)
