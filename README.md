@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills
 - **Programming:** Python, SQL
-- **Frameworks:** Django, Tailwindcss, React.js
+- **Frameworks:** Laravel, Tailwindcss, React.js
 - **Data Tools:** Jupyter Notebook, Matplotlib, Pandas, NumPy
 - **Databases:** MySQL, PostgreSQL
 - **Version Control:** Git & GitHub
