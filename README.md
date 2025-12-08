@@ -1,53 +1,69 @@
-# 👋 Hi there, I'm Faridi
+# 👋 Hi, I'm **Faridi**
 
-💡 I'm a **Data Analyst** and **Web Developer** passionate about transforming data into actionable insights and building clean, user-centered applications.
+💡 A **Data Analyst** and **Web Developer** passionate about turning data into actionable insights and building clean, user-centered digital solutions.
 
 ---
 
 ## 🛠️ Skills
-- **Web programming:** Python, Php, HTML, CSS, JavaScript
-- **Frameworks:** Django, Laravel, React.js, Tailwindcss
-- **Design & Prototyping:** Figma, Canva, Adobe Xd
-- **Data Tools:** Power BI, Excel, SQL, Jupyter Notebook, Python(Matplotlib, Pandas, NumPy)
-- **Databases:** MySQL, PostgreSQL
-- **Version Control:** Git & GitHub
+
+### **Web Development**
+- Python, PHP, HTML, CSS, JavaScript  
+- **Frameworks:** Django, Laravel, React.js, Tailwind CSS  
+
+### **Design & Prototyping**
+- Figma, Canva, Adobe XD  
+
+### **Data Analysis**
+- Power BI, Excel, SQL  
+- Python (Pandas, NumPy, Matplotlib)  
+- Jupyter Notebook  
+
+### **Databases**
+- MySQL, PostgreSQL  
+
+### **Version Control**
+- Git & GitHub  
 
 ---
 
 ## 💼 Experience
-- Field Attachment at **Telesoft Enterprises Ltd.**  
-  Worked on a full-stack **Microfinance Web Application** using Laravel and Tailwindcss.
+
+### **Field Attachment – Telesoft Enterprises Ltd.**  
+Contributed to the development of a full-stack **Microfinance Web Application** using Laravel and Tailwind CSS. Worked on authentication modules, loan management, repayment features, and system optimization.
 
 ---
 
 ## 🎓 Education
 - **Mzumbe University**  
-  BSc in Information and Communication Technology with Business (ICT-B)
+  Bachelor of Science in Information and Communication Technology with Business (ICT-B)
 
 ---
 
 ## 🚀 Projects & Highlights
+
 ### 🌐 Web Development
-- **Micro Lend Connect** – Designed and developed a loan lending platform using Laravel that allows
-users to request loans, track approvals, and make repayments through integrated payment modules.
-- **Ecommerce Platform for Local Artisans** - Developed a digital platform using Django, React js & Tailwindcss enabling local artisans to showcase
-and sell their products online, integrating features for uploads, customer browsing, purchases, and
-notifications.
-- **Personal Portfolio website** - Built a personal portfolio website using React.js and CSS to showcase
-professional work and projects.
-- **Bank website** - Built a banking website using Tailwind CSS and JavaScript, focused on responsive
-design and clean user interfaces.
+- **Micro Lend Connect**  
+  Designed and developed a microfinance loan platform using Laravel. Features include loan requests, approval workflows, repayment tracking, and integrated payment modules.
+
+- **E-commerce Platform for Local Artisans**  
+  Built with Django, React.js, and Tailwind CSS to empower local artisans to upload products, receive purchases, and manage notifications.
+
+- **Personal Portfolio Website**  
+  Developed using React.js and CSS to showcase professional skills, projects, and achievements.
+
+- **Bank Website UI**  
+  Designed a responsive and clean banking interface using Tailwind CSS and JavaScript.
 
 ### 📊 Data Analysis
-- Customer churn analysis using Python & Power BI
-- Sales forecasting using time-series analysis in Excel & Python
+- **Customer Churn Analysis** using Python & Power BI  
+- **Sales Forecasting** using Time-Series Models in Excel & Python  
 
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/faridi-nayunda-75531128b)
-- [GitHub](https://github.com/faridi-nayunda)
-- [Email](mailto:faridinayunda@gmail.com)
+- **LinkedIn:** https://linkedin.com/in/faridi-nayunda-75531128b  
+- **GitHub:** https://github.com/faridi-nayunda  
+- **Email:** faridinayunda@gmail.com  
 
 ---
 
