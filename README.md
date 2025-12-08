@@ -5,9 +5,10 @@
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, SQL
-- **Frameworks:** Laravel, Tailwindcss, React.js
-- **Data Tools:** Jupyter Notebook, Matplotlib, Pandas, NumPy
+- **Web programming:** Python, Php, HTML, CSS, JavaScript
+- **Frameworks:** Django, Laravel, React.js, Tailwindcss
+- **Design & Prototyping:** Figma, Canva, Adobe Xd
+- **Data Tools:** Power BI, Excel, SQL, Jupyter Notebook, Python(Matplotlib, Pandas, NumPy)
 - **Databases:** MySQL, PostgreSQL
 - **Version Control:** Git & GitHub
 
@@ -15,19 +16,27 @@
 
 ## 💼 Experience
 - Field Attachment at **Telesoft Enterprises Ltd.**  
-  Worked on a full-stack **Microfinance Web Application** using Django and Tailwindcss.
+  Worked on a full-stack **Microfinance Web Application** using Laravel and Tailwindcss.
 
 ---
 
 ## 🎓 Education
 - **Mzumbe University**  
-  BSc in Information and Communication Technology (ICT)
+  BSc in Information and Communication Technology with Business (ICT-B)
 
 ---
 
 ## 🚀 Projects & Highlights
 ### 🌐 Web Development
-- **Micro Lend Connect** – A microfinance loan management system with user dashboards, loan requests, repayment tracking, and admin approval workflows.
+- **Micro Lend Connect** – Designed and developed a loan lending platform using Laravel that allows
+users to request loans, track approvals, and make repayments through integrated payment modules.
+- **Ecommerce Platform for Local Artisans** - Developed a digital platform using Django, React js & Tailwindcss enabling local artisans to showcase
+and sell their products online, integrating features for uploads, customer browsing, purchases, and
+notifications.
+- **Personal Portfolio website** - Built a personal portfolio website using React.js and CSS to showcase
+professional work and projects.
+- **Bank website** - Built a banking website using Tailwind CSS and JavaScript, focused on responsive
+design and clean user interfaces.
 
 ### 📊 Data Analysis
 - Customer churn analysis using Python & Power BI
