@@ -55,8 +55,14 @@ Contributed to the development of a full-stack **Microfinance Web Application** 
   Designed a responsive and clean banking interface using Tailwind CSS and JavaScript.
 
 ### 📊 Data Analysis
-- **Customer Churn Analysis** using Python & Power BI  
-- **Sales Forecasting** using Time-Series Models in Excel & Python  
+- **Restaurant Operations Analysis (SQL)**  
+  Analyzed customer and menu item data to identify top-performing and underperforming dishes, as well as customer behavior insights.
+
+- **Traffic Safety Analysis (Excel)**  
+  Examined accident data to uncover patterns and trends, providing insights to help prevent future road accidents.
+
+- **Interactive LEGO Report (Power BI)**  
+  Built a dynamic Power BI dashboard visualizing LEGO data for exploration and decision-making.
 
 ---
 
