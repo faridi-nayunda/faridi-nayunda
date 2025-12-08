@@ -28,7 +28,7 @@
 
 ## 💼 Experience
 
-### **Field Attachment – Telesoft Enterprises Ltd.**  
+### **Intern – Telesoft Enterprises Ltd.**  
 Contributed to the development of a full-stack **Microfinance Web Application** using Laravel and Tailwind CSS. Worked on authentication modules, loan management, repayment features, and system optimization.
 
 ---
