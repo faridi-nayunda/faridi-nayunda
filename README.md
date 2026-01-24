@@ -1,25 +1,46 @@
 # 👋 Hi, I'm **Faridi**
 
-💡 A **Data Analyst** and **Web Developer** passionate about turning data into actionable insights and building clean, user-centered digital solutions.
+🧠 A **Data Scientist** with a strong software engineering background, focused on transforming raw data into meaningful insights, predictive models, and data-driven solutions.
+
+I work with **data analysis, machine learning foundations, dashboards, and backend systems**, and I enjoy building end-to-end solutions where data meets real-world impact.
 
 ---
 
-## 🛠️ Skills
+## 🧠 Core Focus Areas
+- Data Analysis & Visualization  
+- Machine Learning Foundations  
+- Statistical Analysis  
+- Data Cleaning & Feature Engineering  
+- Data-Driven Decision Support  
 
-### **Web Development**
-- Python, PHP, HTML, CSS, JavaScript  
-- **Frameworks:** Django, Laravel, React.js, Tailwind CSS  
+---
 
-### **Design & Prototyping**
-- Figma, Canva, Adobe XD  
+## 🛠️ Technical Skills
 
-### **Data Analysis**
-- Power BI, Excel, SQL  
+### **Data Science & Analytics**
 - Python (Pandas, NumPy, Matplotlib)  
+- SQL (MySQL, PostgreSQL)  
+- Excel (Advanced formulas, pivot tables)  
+- Power BI (Interactive dashboards & reports)  
 - Jupyter Notebook  
 
-### **Databases**
-- MySQL, PostgreSQL  
+### **Machine Learning (Foundations)**
+- Data preprocessing & feature engineering  
+- Exploratory Data Analysis (EDA)  
+- Model evaluation concepts  
+
+### **Programming & Software Development**
+- Python, PHP, JavaScript  
+- **Frameworks:** Django, Laravel, React.js  
+- RESTful APIs & backend logic  
+
+### **Data Visualization**
+- Power BI  
+- Matplotlib  
+- Excel Charts  
+
+### **UI/UX & Prototyping**
+- Figma, Canva, Adobe XD  
 
 ### **Version Control**
 - Git & GitHub  
@@ -28,8 +49,19 @@
 
 ## 💼 Experience
 
-### **Intern – Telesoft Enterprises Ltd.**  
-Contributed to the development of a full-stack **Microfinance Web Application** using Laravel and Tailwind CSS. Worked on authentication modules, loan management, repayment features, and system optimization.
+### **Data Scientist Intern – e-Government Authority (eGA), Dodoma**  
+*Current Position*  
+- Analyzing structured and unstructured datasets to extract insights for government digital services  
+- Performing data cleaning, transformation, and exploratory data analysis (EDA)  
+- Building analytical reports and visual dashboards to support data-driven decision-making  
+- Working with Python, SQL, Excel, and visualization tools on real-world datasets  
+
+---
+
+### **Software Developer Intern – Telesoft Enterprises Ltd.**  
+- Contributed to the development of a full-stack **Microfinance Web Application**  
+- Implemented authentication, loan management, and repayment workflows  
+- Worked on backend logic, system optimization, and debugging using Laravel  
 
 ---
 
@@ -41,28 +73,33 @@ Contributed to the development of a full-stack **Microfinance Web Application** 
 
 ## 🚀 Projects & Highlights
 
-### 🌐 Web Development
+### 📊 Data Science & Analytics Projects
+- **Restaurant Operations Analysis (SQL)**  
+  Analyzed customer and menu data to identify top-performing items and customer behavior patterns.
+
+- **Traffic Safety Data Analysis (Excel)**  
+  Explored road accident datasets to uncover trends and risk factors for improved safety insights.
+
+- **Interactive LEGO Dashboard (Power BI)**  
+  Developed an interactive Power BI dashboard for data exploration and decision support.
+
+---
+
+### 🤖 Data-Driven Systems
+- **Swahili Text Analysis Projects**  
+  Worked on data preparation and analysis for Swahili text datasets, focusing on sentiment and content classification foundations.
+
+---
+
+### 💻 Software Development (Supporting Role)
 - **Micro Lend Connect**  
-  Designed and developed a microfinance loan platform using Laravel. Features include loan requests, approval workflows, repayment tracking, and integrated payment modules.
+  A data-driven microfinance management system built with Laravel, featuring loan requests, approvals, repayments, and reporting.
 
 - **E-commerce Platform for Local Artisans**  
-  Built with Django, React.js, and Tailwind CSS to empower local artisans to upload products, receive purchases, and manage notifications.
+  Developed using Django and React.js to manage products, orders, and notifications.
 
 - **Personal Portfolio Website**  
-  Developed using React.js and CSS to showcase professional skills, projects, and achievements.
-
-- **Bank Website UI**  
-  Designed a responsive and clean banking interface using Tailwind CSS and JavaScript.
-
-### 📊 Data Analysis
-- **Restaurant Operations Analysis (SQL)**  
-  Analyzed customer and menu item data to identify top-performing and underperforming dishes, as well as customer behavior insights.
-
-- **Traffic Safety Analysis (Excel)**  
-  Examined accident data to uncover patterns and trends, providing insights to help prevent future road accidents.
-
-- **Interactive LEGO Report (Power BI)**  
-  Built a dynamic Power BI dashboard visualizing LEGO data for exploration and decision-making.
+  Built with React.js to showcase projects, skills, and achievements.
 
 ---
 
@@ -73,4 +110,4 @@ Contributed to the development of a full-stack **Microfinance Web Application** 
 
 ---
 
-_“Code with purpose, analyze with precision.”_
+_“Data tells the story — I help make it understandable, actionable, and impactful.”_
