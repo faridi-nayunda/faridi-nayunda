@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Faridi**
 
-🧠 A **Data Scientist** with a strong software engineering background, focused on transforming raw data into meaningful insights, predictive models, and data-driven solutions.
+💡 A Data Scientist and Software Developer passionate about extracting insights from data and building scalable, user-centered software solutions.
 
-I work with **data analysis, machine learning foundations, dashboards, and backend systems**, and I enjoy building end-to-end solutions where data meets real-world impact.
+I enjoy working at the intersection of data, backend systems, and modern web technologies to solve real-world problems.
 
 ---
 
