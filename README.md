@@ -32,7 +32,7 @@ I enjoy working at the intersection of data, backend systems, and modern web tec
 ### **Programming & Software Development**
 - Python, PHP, JavaScript  
 - **Frameworks:** Django, Laravel, React.js  
-- RESTful APIs & backend logic  
+- RESTful APIs & GRAPHQL API  
 
 ### **Data Visualization**
 - Power BI  
