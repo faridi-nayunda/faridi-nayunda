@@ -22,7 +22,8 @@ I enjoy working at the intersection of data, backend systems, and modern web tec
 - SQL (MySQL, PostgreSQL)  
 - Excel (Advanced formulas, pivot tables)  
 - Power BI (Interactive dashboards & reports)  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Google Colab
 
 ### **Machine Learning (Foundations)**
 - Data preprocessing & feature engineering  
