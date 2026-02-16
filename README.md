@@ -1,114 +1,95 @@
-# 👋 Hi, I'm **Faridi**
+<h1 align="center">Hi 👋, I'm Faridi Suleimani</h1>
+<h3 align="center">Data Scientist | AI Engineer | Full-Stack Developer</h3>
 
-💡 A Data Scientist and Software Developer passionate about extracting insights from data and building scalable, user-centered software solutions.
-
-I enjoy working at the intersection of data, backend systems, and modern web technologies to solve real-world problems.
-
----
-
-## 🧠 Core Focus Areas
-- Data Analysis & Visualization  
-- Machine Learning Foundations  
-- Statistical Analysis  
-- Data Cleaning & Feature Engineering  
-- Data-Driven Decision Support  
+<p align="center">
+Building intelligent systems that transform data into scalable, production-ready applications.
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I Do
 
-### **Data Science & Analytics**
-- Python (Pandas, NumPy, Matplotlib)  
-- SQL (MySQL, PostgreSQL)  
-- Excel (Advanced formulas, pivot tables)  
-- Power BI (Interactive dashboards & reports)  
-- Jupyter Notebook
-- Google Colab
+- 🔬 Applied Machine Learning & Predictive Modeling  
+- 🤖 AI Agents & LLM Applications (RAG, LangChain, Llama)  
+- 📊 Data-Driven Decision Systems  
+- 🌐 Backend & API Architecture  
 
-### **Machine Learning (Foundations)**
-- Data preprocessing & feature engineering  
-- Exploratory Data Analysis (EDA)  
-- Model evaluation concepts  
+I bridge the gap between **data → models → deployable systems**.
 
-### **Programming & Software Development**
-- Python, PHP, JavaScript  
-- **Frameworks:** Django, Laravel, React.js  
-- RESTful APIs & GRAPHQL API  
+---
 
-### **Data Visualization**
-- Power BI  
-- Matplotlib  
-- Excel Charts  
+## 🧠 Core Strengths
 
-### **UI/UX & Prototyping**
-- Figma, Canva, Adobe XD  
+- Machine Learning & NLP  
+- Large Language Model (LLM) Integration  
+- Retrieval-Augmented Generation (RAG)  
+- Statistical Analysis & Experimentation  
+- Feature Engineering & Data Pipelines  
+- Scalable Backend Development  
 
-### **Version Control**
-- Git & GitHub  
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Python • JavaScript • PHP • SQL  
+
+**ML & AI:**  
+Scikit-learn • Hugging Face • LangChain • Llama • Phidata • Chroma  
+
+**Backend & Web:**  
+Django • Laravel • React.js • REST APIs • GraphQL  
+
+**Analytics & Visualization:**  
+Power BI • Excel • Matplotlib • Jupyter  
+
+---
+
+## 🌍 Selected Projects
+
+### 🎙 AI Voice Assistant
+LLM-powered voice assistant using vector retrieval + speech AI.  
+Speech-to-text → semantic search → LLM reasoning → voice output.
+
+### 🧠 AI Agent (Llama + Phidata)
+Autonomous agent workflows with memory, tool usage, and structured reasoning.
+
+### 📚 Intelligent FAQ System
+Document-based Q&A system using embeddings + Retrieval-Augmented Generation.
+
+### 🌍 Swahili Sentiment Analysis
+NLP pipeline and sentiment classification model for low-resource language data.
 
 ---
 
 ## 💼 Experience
 
-### **Data Scientist Intern – e-Government Authority (eGA), Dodoma**  
-*Current Position*  
-- Analyzing structured and unstructured datasets to extract insights for government digital services  
-- Performing data cleaning, transformation, and exploratory data analysis (EDA)  
-- Building analytical reports and visual dashboards to support data-driven decision-making  
-- Working with Python, SQL, Excel, and visualization tools on real-world datasets  
+**Data Scientist Intern**  
+- Built analytical workflows for institutional datasets  
+- Designed dashboards for strategic decision-making  
+- Applied statistical reasoning to evaluate trends  
 
----
-
-### **Software Developer Intern – Telesoft Enterprises Ltd.**  
-- Contributed to the development of a full-stack **Microfinance Web Application**  
-- Implemented authentication, loan management, and repayment workflows  
-- Worked on backend logic, system optimization, and debugging using Laravel  
+**Software Developer Intern**  
+- Developed backend logic for financial systems  
+- Implemented authentication & secure workflows  
+- Optimized performance and reliability  
 
 ---
 
 ## 🎓 Education
-- **Mzumbe University**  
-  Bachelor of Science in Information and Communication Technology with Business (ICT-B)
+
+BSc. ICT with Business  
 
 ---
 
-## 🚀 Projects & Highlights
+## 📫 Connect With Me
 
-### 📊 Data Science & Analytics Projects
-- **Restaurant Operations Analysis (SQL)**  
-  Analyzed customer and menu data to identify top-performing items and customer behavior patterns.
-
-- **Traffic Safety Data Analysis (Excel)**  
-  Explored road accident datasets to uncover trends and risk factors for improved safety insights.
-
-- **Interactive LEGO Dashboard (Power BI)**  
-  Developed an interactive Power BI dashboard for data exploration and decision support.
+📧 faridinayunda@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/faridi-nayunda-75531128b  
+💻 GitHub: https://github.com/faridi-nayunda  
 
 ---
 
-### 🤖 Data-Driven Systems
-- **Swahili Text Analysis Projects**  
-  Worked on data preparation and analysis for Swahili text datasets, focusing on sentiment and content classification foundations.
-
----
-
-### 💻 Software Development (Supporting Role)
-- **Micro Lend Connect**  
-  A data-driven microfinance management system built with Laravel, featuring loan requests, approvals, repayments, and reporting.
-
-- **E-commerce Platform for Local Artisans**  
-  Developed using Django and React.js to manage products, orders, and notifications.
-
-- **Personal Portfolio Website**  
-  Built with React.js to showcase projects, skills, and achievements.
-
----
-
-## 📫 Let's Connect
-- **LinkedIn:** https://linkedin.com/in/faridi-nayunda-75531128b  
-- **GitHub:** https://github.com/faridi-nayunda  
-- **Email:** faridinayunda@gmail.com  
-
----
-
-_“Data tells the story — I help make it understandable, actionable, and impactful.”_
+<p align="center">
+<strong>Turning data into intelligent systems.</strong>
+</p>
