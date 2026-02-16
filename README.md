@@ -2,7 +2,7 @@
 
 🎯 **Data Scientist | AI Engineer | Software Developer**
 
-I build intelligent systems and scalable software that transform data into actionable insights and real-world solutions.
+I specialize in building AI-powered systems, intelligent data solutions, and scalable backend architectures that bridge the gap between raw data and impactful digital products.
 
 My work sits at the intersection of:
 
@@ -200,9 +200,3 @@ Bachelor of Science in Information and Communication Technology with Business (I
 - 📧 Email: faridinayunda@gmail.com  
 
 ---
-
-# 🔥 Professional Positioning Statement
-
-I specialize in building AI-powered systems, intelligent data solutions, and scalable backend architectures that bridge the gap between raw data and impactful digital products.
-
-> “Data becomes powerful when transformed into intelligent systems.”
