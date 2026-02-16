@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faridi Suleimani
+# 👋 Hi, I'm Faridi
 
 🎯 **Data Scientist | AI Engineer | Software Developer**
 
