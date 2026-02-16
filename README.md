@@ -1,95 +1,208 @@
-<h1 align="center">Hi 👋, I'm Faridi Suleimani</h1>
-<h3 align="center">Data Scientist | AI Engineer | Full-Stack Developer</h3>
+# 👋 Hi, I'm Faridi Suleimani
 
-<p align="center">
-Building intelligent systems that transform data into scalable, production-ready applications.
-</p>
+🎯 **Data Scientist | AI Engineer | Software Developer**
 
----
+I build intelligent systems and scalable software that transform data into actionable insights and real-world solutions.
 
-## 🚀 What I Do
+My work sits at the intersection of:
 
-- 🔬 Applied Machine Learning & Predictive Modeling  
-- 🤖 AI Agents & LLM Applications (RAG, LangChain, Llama)  
-- 📊 Data-Driven Decision Systems  
-- 🌐 Backend & API Architecture  
+- 🔬 Applied Machine Learning  
+- 🤖 AI Agents & LLM Applications  
+- 📊 Advanced Analytics & Decision Systems  
+- 🌐 Full-Stack Software Development  
 
-I bridge the gap between **data → models → deployable systems**.
+I focus on solving practical problems using modern AI, data science, and robust backend systems.
 
 ---
 
-## 🧠 Core Strengths
+# 🧠 Core Expertise
 
-- Machine Learning & NLP  
-- Large Language Model (LLM) Integration  
-- Retrieval-Augmented Generation (RAG)  
-- Statistical Analysis & Experimentation  
+- Machine Learning & Predictive Modeling  
+- Natural Language Processing (NLP)  
+- Large Language Models (LLMs) & AI Agents  
+- Statistical Modeling & Experimental Thinking  
+- Data Engineering & Feature Optimization  
+- Backend Systems & API Architecture  
+
+---
+
+# 🛠️ Technical Skills
+
+## 🔬 Data Science & Machine Learning
+
+- **Python (Advanced):** Pandas, NumPy, Scikit-learn  
+- NLP & Text Processing (NLTK, Hugging Face)  
+- Model Training, Evaluation & Optimization  
 - Feature Engineering & Data Pipelines  
-- Scalable Backend Development  
+- Statistical Analysis & Hypothesis Testing  
+- Experimentation & Model Validation  
+
+## 🤖 AI & LLM Engineering
+
+- LangChain  
+- Llama (LLM Integration)  
+- Phidata (AI Agent Development)  
+- Chroma (Vector Database)  
+- Google PaLM  
+- Hugging Face Transformers  
+- Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- AssemblyAI (Speech-to-Text)  
+- ElevenLabs (Text-to-Speech)  
+
+## 📊 Data Analytics & Visualization
+
+- SQL (MySQL, PostgreSQL)  
+- Power BI (Interactive Dashboards)  
+- Excel (Advanced Analysis & Modeling)  
+- Matplotlib  
+- Jupyter Notebook & Google Colab  
+
+## 💻 Software Development
+
+- Python, PHP, JavaScript  
+- Django, Laravel, React.js  
+- RESTful APIs & GraphQL  
+- Authentication & Role-Based Systems  
+- Scalable Backend Architecture  
+
+## ⚙️ Tools & Workflow
+
+- Git & GitHub  
+- Docker (Foundations)  
+- Agile Development Practices  
+- Figma (UI/UX Prototyping)  
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Professional Experience
 
-**Languages:**  
-Python • JavaScript • PHP • SQL  
+## Data Scientist Intern – e-Government Authority (eGA), Dodoma  
+**Current Role**
 
-**ML & AI:**  
-Scikit-learn • Hugging Face • LangChain • Llama • Phidata • Chroma  
-
-**Backend & Web:**  
-Django • Laravel • React.js • REST APIs • GraphQL  
-
-**Analytics & Visualization:**  
-Power BI • Excel • Matplotlib • Jupyter  
+- Designing data analysis workflows for public digital services  
+- Cleaning, transforming, and modeling structured & unstructured datasets  
+- Building analytical dashboards for institutional decision-making  
+- Applying statistical reasoning to evaluate trends and service performance  
+- Supporting data-driven governance initiatives  
 
 ---
 
-## 🌍 Selected Projects
+## Software Developer Intern – Telesoft Enterprises Ltd.
 
-### 🎙 AI Voice Assistant
-LLM-powered voice assistant using vector retrieval + speech AI.  
-Speech-to-text → semantic search → LLM reasoning → voice output.
-
-### 🧠 AI Agent (Llama + Phidata)
-Autonomous agent workflows with memory, tool usage, and structured reasoning.
-
-### 📚 Intelligent FAQ System
-Document-based Q&A system using embeddings + Retrieval-Augmented Generation.
-
-### 🌍 Swahili Sentiment Analysis
-NLP pipeline and sentiment classification model for low-resource language data.
+- Contributed to a full-stack Microfinance Web Application  
+- Implemented authentication, loan processing, and repayment modules  
+- Optimized backend logic using Laravel  
+- Improved system reliability through debugging and workflow restructuring  
 
 ---
 
-## 💼 Experience
+# 🚀 Projects & Highlights
 
-**Data Scientist Intern**  
-- Built analytical workflows for institutional datasets  
-- Designed dashboards for strategic decision-making  
-- Applied statistical reasoning to evaluate trends  
+## 🤖 AI & LLM Projects
 
-**Software Developer Intern**  
-- Developed backend logic for financial systems  
-- Implemented authentication & secure workflows  
-- Optimized performance and reliability  
+### 🎙️ Voice Assistant (RAG + Speech AI)
 
----
+Built an intelligent voice assistant integrating:
 
-## 🎓 Education
+- Chroma (Vector DB)  
+- AssemblyAI (Speech-to-Text)  
+- ElevenLabs (Text-to-Speech)  
 
-BSc. ICT with Business  
-
----
-
-## 📫 Connect With Me
-
-📧 faridinayunda@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/faridi-nayunda-75531128b  
-💻 GitHub: https://github.com/faridi-nayunda  
+**Features:**
+- Speech recognition  
+- Context-aware responses using vector retrieval  
+- Natural voice output  
+- Retrieval-Augmented Generation (RAG) architecture  
 
 ---
 
-<p align="center">
-<strong>Turning data into intelligent systems.</strong>
-</p>
+### 🧠 AI Agent using Llama & Phidata
+
+- Built autonomous AI agent workflows  
+- Integrated Llama models for reasoning tasks  
+- Implemented tool usage & memory-based interactions  
+- Designed structured prompt pipelines  
+
+---
+
+### 📚 FAQ System (LangChain + Google PaLM + Hugging Face + Streamlit)
+
+- Built a document-based Q&A system  
+- Implemented embeddings & retrieval pipeline  
+- Created interactive Streamlit UI  
+- Enabled contextual, document-aware answers  
+
+---
+
+### 🌍 Swahili Sentiment Analysis Tool
+
+- Built NLP pipeline for Swahili text  
+- Data preprocessing & tokenization  
+- Sentiment classification modeling  
+- Focused on local language AI applications  
+
+---
+
+## 📊 Data Science Projects
+
+### Restaurant Operations Analysis (SQL)
+
+- Analyzed transactional data  
+- Identified customer behavior patterns  
+- Generated performance optimization insights  
+
+### Traffic Safety Data Analysis (Excel)
+
+- Explored road accident datasets  
+- Identified risk factors and trends  
+- Built structured analytical reporting  
+
+### Interactive LEGO Dashboard (Power BI)
+
+- Designed interactive data exploration dashboard  
+- Developed dynamic filtering & KPI tracking  
+
+---
+
+## 💻 Software Systems
+
+### Micro Lend Connect
+
+- Full microfinance management platform (Laravel)  
+- Loan lifecycle management  
+- Reporting & role-based access  
+
+### E-commerce Platform for Local Artisans
+
+- Django + React.js  
+- Product, order & notification management  
+- Clean UI/UX implementation  
+
+### Personal Portfolio Website
+
+- React.js-based portfolio  
+- Responsive design & project showcase  
+
+---
+
+# 🎓 Education
+
+**Mzumbe University**  
+Bachelor of Science in Information and Communication Technology with Business (ICT-B)
+
+---
+
+# 📫 Let’s Connect
+
+- 🔗 LinkedIn: https://linkedin.com/in/faridi-nayunda-75531128b  
+- 💻 GitHub: https://github.com/faridi-nayunda  
+- 📧 Email: faridinayunda@gmail.com  
+
+---
+
+# 🔥 Professional Positioning Statement
+
+I specialize in building AI-powered systems, intelligent data solutions, and scalable backend architectures that bridge the gap between raw data and impactful digital products.
+
+> “Data becomes powerful when transformed into intelligent systems.”
