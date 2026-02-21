@@ -1,78 +1,63 @@
-<h1 align="center">Hi 👋, I'm Faridi</h1>
-<h3 align="center">Data Scientist | AI Engineer | Full-Stack Developer</h3>
+<h1 align="center">Faridi Nayunda</h1>
+<h3 align="center">Data Scientist | AI Engineer | Data Analyst</h3>
 
 <p align="center">
-Building intelligent systems that transform data into scalable, production-ready applications.
+I build data-driven systems that generate insights, power decisions, and deploy intelligent AI solutions.
 </p>
 
 ---
 
-## 🚀 What I Do
+## 💼 Professional Profile
 
-- 🔬 Applied Machine Learning & Predictive Modeling  
-- 🤖 AI Agents & LLM Applications (RAG, LangChain, Llama)  
-- 📊 Data-Driven Decision Systems  
-- 🌐 Backend & API Architecture  
+Data professional with hands-on experience in analytics, machine learning, and AI system development.  
+Skilled in transforming complex datasets into predictive models, dashboards, and production-ready AI applications.
 
-I bridge the gap between **data → models → deployable systems**.
+Focused on delivering measurable impact through:
 
----
-
-## 🧠 Core Strengths
-
-- Machine Learning & NLP  
-- Large Language Model (LLM) Integration  
-- Retrieval-Augmented Generation (RAG)  
-- Statistical Analysis & Experimentation  
-- Feature Engineering & Data Pipelines  
-- Scalable Backend Development  
+• Data Analysis & Visualization  
+• Machine Learning & NLP  
+• AI Agents & LLM Applications  
+• Decision-Support Systems  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-**Languages:**  
-Python • JavaScript • PHP • SQL  
-
-**ML & AI:**  
-Scikit-learn • Hugging Face • LangChain • Llama • Phidata • Chroma  
-
-**Backend & Web:**  
-Django • Laravel • React.js • REST APIs • GraphQL  
-
-**Analytics & Visualization:**  
-Power BI • Excel • Matplotlib • Jupyter  
+**Programming:** Python, SQL  
+**Data Analysis:** Pandas, NumPy, Statistical Modeling, EDA  
+**Machine Learning:** Scikit-learn, NLP, Feature Engineering  
+**AI Systems:** LangChain, LLM Integration, RAG, Vector Databases  
+**Visualization:** Power BI, Matplotlib, Excel  
+**Data Access:** REST APIs, GraphQL  
 
 ---
 
-## 🌍 Selected Projects
+## 📌 Selected Impact Projects
 
-### 🎙 AI Voice Assistant
-LLM-powered voice assistant using vector retrieval + speech AI.  
-Speech-to-text → semantic search → LLM reasoning → voice output.
+**AI Document Intelligence System (RAG)**  
+Built embedding-based retrieval system enabling contextual Q&A over structured and unstructured datasets.
 
-### 🧠 AI Agent (Llama + Phidata)
-Autonomous agent workflows with memory, tool usage, and structured reasoning.
+**Swahili Sentiment Analysis Model**  
+Developed NLP pipeline for preprocessing, feature extraction, and classification for low-resource language data.
 
-### 📚 Intelligent FAQ System
-Document-based Q&A system using embeddings + Retrieval-Augmented Generation.
+**Data Analytics Dashboards**  
+Designed performance dashboards to support institutional decision-making and trend analysis.
 
-### 🌍 Swahili Sentiment Analysis
-NLP pipeline and sentiment classification model for low-resource language data.
+**Autonomous AI Agent Workflows**  
+Implemented LLM-powered agents with memory, tool usage, and structured reasoning.
 
 ---
 
 ## 💼 Experience
 
 **Data Scientist Intern**  
-- Built analytical workflows for institutional datasets  
-- Designed dashboards for strategic decision-making  
-- Applied statistical reasoning to evaluate trends  
+• Performed exploratory data analysis on institutional datasets  
+• Built predictive models to identify trends and performance indicators  
+• Designed dashboards for executive reporting  
 
 **Software Developer Intern**  
-- Developed backend logic for financial systems  
-- Implemented authentication & secure workflows  
-- Optimized performance and reliability  
+• Developed backend APIs and data workflows  
+• Improved system performance and reliability  
 
 ---
 
@@ -82,14 +67,12 @@ BSc. ICT with Business
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 📧 faridinayunda@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/faridi-nayunda-75531128b  
-💻 GitHub: https://github.com/faridi-nayunda  
+🔗 LinkedIn: linkedin.com/in/faridi-nayunda-75531128b  
+💻 GitHub: github.com/faridi-nayunda  
 
 ---
 
-<p align="center">
-<strong>Turning data into intelligent systems.</strong>
-</p>
+<p align="center"><strong>Turning Data into Intelligence.</strong></p>
