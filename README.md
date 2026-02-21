@@ -1,78 +1,106 @@
-<h1 align="center">Faridi Nayunda</h1>
+<h1 align="center">Faridi Suleimani</h1>
 <h3 align="center">Data Scientist | AI Engineer | Data Analyst</h3>
 
 <p align="center">
-I build data-driven systems that generate insights, power decisions, and deploy intelligent AI solutions.
+  <em>Transforming Data into Insights • Building AI into Systems • Delivering Measurable Impact</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/faridi-nayunda-75531128b">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:faridinayunda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Data%20%7C%20AI%20%7C%20Analytics-black?style=for-the-badge" />
 </p>
 
 ---
 
-## 💼 Professional Profile
+## 🚀 Professional Snapshot
 
-Data professional with hands-on experience in analytics, machine learning, and AI system development.  
-Skilled in transforming complex datasets into predictive models, dashboards, and production-ready AI applications.
+✔ Data analysis & business intelligence  
+✔ Machine learning & predictive modeling  
+✔ AI systems (LLMs, RAG, intelligent agents)  
+✔ Insight-driven decision support  
 
-Focused on delivering measurable impact through:
-
-• Data Analysis & Visualization  
-• Machine Learning & NLP  
-• AI Agents & LLM Applications  
-• Decision-Support Systems  
+I specialize in converting **raw data → structured insights → deployable AI solutions**.
 
 ---
 
-## 🛠 Technical Skills
+## 🧠 Core Expertise
 
-**Programming:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, Statistical Modeling, EDA  
-**Machine Learning:** Scikit-learn, NLP, Feature Engineering  
-**AI Systems:** LangChain, LLM Integration, RAG, Vector Databases  
-**Visualization:** Power BI, Matplotlib, Excel  
-**Data Access:** REST APIs, GraphQL  
+**Data Science**
+- Exploratory Data Analysis (EDA)
+- Statistical Modeling & Hypothesis Testing
+- Feature Engineering
+- Predictive Modeling
+
+**Artificial Intelligence**
+- NLP & Text Processing
+- Retrieval-Augmented Generation (RAG)
+- LLM Integration & AI Agents
+- Vector Databases & Embeddings
+
+**Analytics & Visualization**
+- Dashboard Development
+- Data Storytelling
+- Reporting Systems
 
 ---
 
-## 📌 Selected Impact Projects
+## 🛠 Tech Stack
 
-**AI Document Intelligence System (RAG)**  
-Built embedding-based retrieval system enabling contextual Q&A over structured and unstructured datasets.
+<p>
+<img src="https://img.shields.io/badge/Python-Expert-blue" />
+<img src="https://img.shields.io/badge/SQL-Advanced-lightgrey" />
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-orange" />
+<img src="https://img.shields.io/badge/Pandas-Data-blue" />
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow" />
+<img src="https://img.shields.io/badge/LangChain-LLM-green" />
+<img src="https://img.shields.io/badge/Chroma-VectorDB-purple" />
+<img src="https://img.shields.io/badge/GraphQL-API-pink" />
+</p>
 
-**Swahili Sentiment Analysis Model**  
-Developed NLP pipeline for preprocessing, feature extraction, and classification for low-resource language data.
+---
 
-**Data Analytics Dashboards**  
-Designed performance dashboards to support institutional decision-making and trend analysis.
+## 📌 Featured Work
 
-**Autonomous AI Agent Workflows**  
-Implemented LLM-powered agents with memory, tool usage, and structured reasoning.
+### 🧠 AI Document Intelligence (RAG System)
+Embedding-based retrieval engine enabling contextual Q&A over structured and unstructured datasets.
+
+### 🌍 Swahili Sentiment Analysis
+NLP pipeline for preprocessing, feature extraction, and sentiment classification in low-resource language datasets.
+
+### 📊 Institutional Analytics Dashboards
+Designed executive dashboards to support strategic planning and performance monitoring.
+
+### 🤖 Autonomous AI Agent Workflows
+Built LLM-powered agents with memory, tool usage, and structured reasoning.
 
 ---
 
 ## 💼 Experience
 
-**Data Scientist Intern**  
-• Performed exploratory data analysis on institutional datasets  
-• Built predictive models to identify trends and performance indicators  
-• Designed dashboards for executive reporting  
+### Data Scientist Intern  
+**e-Government Authority (eGA)** — Dodoma, Tanzania  
+- Conducted exploratory data analysis on institutional datasets  
+- Built predictive models to identify trends and performance indicators  
+- Designed dashboards for executive reporting and strategic insights  
 
-**Software Developer Intern**  
-• Developed backend APIs and data workflows  
-• Improved system performance and reliability  
+### Software Developer Intern  
+**Telesoft Enterprises Limited** — Dodoma, Tanzania  
+- Developed backend APIs and enterprise system workflows  
+- Implemented secure authentication processes  
+- Optimized data handling and system performance  
 
 ---
 
 ## 🎓 Education
-
-BSc. ICT with Business  
-
----
-
-## 📫 Contact
-
-📧 faridinayunda@gmail.com  
-🔗 LinkedIn: linkedin.com/in/faridi-nayunda-75531128b  
-💻 GitHub: github.com/faridi-nayunda  
+**BSc. ICT with Business**
 
 ---
 
-<p align="center"><strong>Turning Data into Intelligence.</strong></p>
+<p align="center">
+<strong>Data → Insight → Intelligence → Impact</strong>
+</p>
