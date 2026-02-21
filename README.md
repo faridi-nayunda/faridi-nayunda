@@ -2,81 +2,83 @@
 <h3 align="center">Data Scientist | AI Engineer | Data Analyst</h3>
 
 <p align="center">
-  <em>Transforming Data into Insights • Building AI into Systems • Delivering Measurable Impact</em>
+  Turning real-world data into measurable business impact through analytics, machine learning, and AI systems.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/faridi-nayunda-75531128b">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:faridinayunda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20%7C%20AI%20%7C%20Analytics-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Data%20%7C%20AI%20Roles-black?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Professional Snapshot
+## 👨‍💼 Professional Summary
 
-✔ Data analysis & business intelligence  
-✔ Machine learning & predictive modeling  
-✔ AI systems (LLMs, RAG, intelligent agents)  
-✔ Insight-driven decision support  
+Data professional with hands-on experience in:
 
-I specialize in converting **raw data → structured insights → deployable AI solutions**.
+• Exploratory Data Analysis & Business Intelligence  
+• Predictive Modeling & Statistical Analysis  
+• NLP & AI Systems (RAG, LLM Agents)  
+• Dashboarding & Decision-Support Systems  
 
----
-
-## 🧠 Core Expertise
-
-**Data Science**
-- Exploratory Data Analysis (EDA)
-- Statistical Modeling & Hypothesis Testing
-- Feature Engineering
-- Predictive Modeling
-
-**Artificial Intelligence**
-- NLP & Text Processing
-- Retrieval-Augmented Generation (RAG)
-- LLM Integration & AI Agents
-- Vector Databases & Embeddings
-
-**Analytics & Visualization**
-- Dashboard Development
-- Data Storytelling
-- Reporting Systems
+I focus on delivering **practical, production-ready solutions** — not just notebooks.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Technical Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-Expert-blue" />
-<img src="https://img.shields.io/badge/SQL-Advanced-lightgrey" />
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-orange" />
-<img src="https://img.shields.io/badge/Pandas-Data-blue" />
-<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow" />
-<img src="https://img.shields.io/badge/LangChain-LLM-green" />
-<img src="https://img.shields.io/badge/Chroma-VectorDB-purple" />
-<img src="https://img.shields.io/badge/GraphQL-API-pink" />
-</p>
+**Languages:**  
+Python • SQL  
+
+**Data Science & ML:**  
+Pandas • NumPy • Scikit-learn • Feature Engineering • Statistical Modeling  
+
+**AI & NLP:**  
+LLM Integration • LangChain • Retrieval-Augmented Generation (RAG) • Vector Databases  
+
+**Visualization & BI:**  
+Power BI • Matplotlib • Excel  
+
+**APIs & Data Access:**  
+REST APIs • GraphQL  
 
 ---
 
-## 📌 Featured Work
+## 📌 Featured Projects (End-to-End)
 
-### 🧠 AI Document Intelligence (RAG System)
-Embedding-based retrieval engine enabling contextual Q&A over structured and unstructured datasets.
+### 1️⃣ AI Document Intelligence System (RAG)
+**Business Goal:** Enable contextual Q&A over institutional documents.  
+**Solution:** Embedding-based retrieval + LLM reasoning pipeline.  
+**Impact:** Reduced manual document search time and improved knowledge accessibility.  
+**Skills Used:** NLP, Vector Databases, LangChain, Prompt Engineering  
 
-### 🌍 Swahili Sentiment Analysis
-NLP pipeline for preprocessing, feature extraction, and sentiment classification in low-resource language datasets.
+---
 
-### 📊 Institutional Analytics Dashboards
-Designed executive dashboards to support strategic planning and performance monitoring.
+### 2️⃣ Swahili Sentiment Analysis Model
+**Business Goal:** Analyze public sentiment in low-resource language datasets.  
+**Solution:** Text preprocessing → Feature engineering → ML classification model.  
+**Impact:** Enabled structured insight extraction from unstructured text data.  
+**Skills Used:** NLP, Scikit-learn, Model Evaluation  
 
-### 🤖 Autonomous AI Agent Workflows
-Built LLM-powered agents with memory, tool usage, and structured reasoning.
+---
+
+### 3️⃣ Institutional Analytics Dashboard
+**Business Goal:** Support executive-level performance monitoring.  
+**Solution:** Cleaned datasets, created KPIs, built interactive dashboards.  
+**Impact:** Improved strategic decision-making visibility.  
+**Skills Used:** Data Cleaning, Visualization, Power BI  
+
+---
+
+### 4️⃣ Autonomous AI Agent Workflows
+**Business Goal:** Automate reasoning-based tasks using LLMs.  
+**Solution:** Agent memory + tool usage + structured response generation.  
+**Skills Used:** LLM Integration, AI Agents, System Design  
 
 ---
 
@@ -84,23 +86,32 @@ Built LLM-powered agents with memory, tool usage, and structured reasoning.
 
 ### Data Scientist Intern  
 **e-Government Authority (eGA)** — Dodoma, Tanzania  
-- Conducted exploratory data analysis on institutional datasets  
-- Built predictive models to identify trends and performance indicators  
-- Designed dashboards for executive reporting and strategic insights  
+- Conducted EDA on institutional datasets  
+- Built predictive models for performance indicators  
+- Designed dashboards for strategic reporting  
 
 ### Software Developer Intern  
 **Telesoft Enterprises Limited** — Dodoma, Tanzania  
-- Developed backend APIs and enterprise system workflows  
-- Implemented secure authentication processes  
+- Developed backend APIs and secure enterprise workflows  
 - Optimized data handling and system performance  
 
 ---
 
-## 🎓 Education
-**BSc. ICT with Business**
+## 📊 What Makes My Work Different
+
+✔ Real-world datasets  
+✔ Clear business problem framing  
+✔ End-to-end pipelines  
+✔ Reproducible code  
+✔ Documented insights for non-technical stakeholders  
 
 ---
 
-<p align="center">
-<strong>Data → Insight → Intelligence → Impact</strong>
-</p>
+## 📫 Let’s Connect
+
+📧 faridinayunda@gmail.com  
+🔗 linkedin.com/in/faridi-nayunda-75531128b  
+
+---
+
+<p align="center"><strong>Data → Insight → Intelligence → Impact</strong></p>
