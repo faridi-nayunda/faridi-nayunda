@@ -1,4 +1,4 @@
-<h1 align="center">Faridi Suleimani</h1>
+<h1 align="center">Faridi Nayunda</h1>
 <h3 align="center">Data Scientist | AI Engineer | Data Analyst</h3>
 
 <p align="center">
