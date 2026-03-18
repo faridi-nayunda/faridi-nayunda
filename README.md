@@ -12,7 +12,6 @@
   <a href="mailto:faridinayunda@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Data%20%7C%20AI%20Roles-black?style=for-the-badge"/>
 </p>
 
 ---
